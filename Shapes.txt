@@ -1,0 +1,7 @@
+3
+Triangle
+157 305 130 Color [White]
+Circle
+496 138 75 Color [Blue]
+Square
+411 184 50 Color [Green]
